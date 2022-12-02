@@ -2,7 +2,7 @@
 
 Generate ebook (mobi & epub) from blog posts using calibre.
 
-You can find recipes in `recipe` directory and use `test.recipe.py` for debugging your own recipes.
+You can find recipes in `recipes` directory and use `test.recipe.py` for debugging your own recipes.
 
 ## Reference
 - calibre document: <https://manual.calibre-ebook.com/news_recipe.html>
