@@ -4,6 +4,8 @@ Generate ebook (mobi & epub) from blog posts using calibre.
 
 You can find recipes in `recipes` directory and use `test.recipe.py` for debugging your own recipes.
 
+PS: if there is RSS feed, you can use calibre to fetch the feed and convert it to ebook directly.
+
 ## Reference
 - calibre document: <https://manual.calibre-ebook.com/news_recipe.html>
 - calibre source code: <https://github.com/kovidgoyal/calibre/blob/master/src/calibre/web/feeds/news.py>
